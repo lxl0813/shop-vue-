@@ -1,0 +1,26 @@
+{
+  "name": "shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "core-js": "^3.3.2",
+    "nprogress": "^0.2.0",
+    "vant": "^2.2.10",
+    "vant-weapp": "^0.5.22",
+    "vue": "^2.6.10",
+    "vue-gemini-scrollbar": "^2.0.1",
+    "vue-router": "^3.1.3",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "vue-happy-scroll": "^2.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
